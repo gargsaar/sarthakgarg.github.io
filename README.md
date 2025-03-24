@@ -2,7 +2,7 @@
 
 My [Blog](https://sarthakgarg.com/) powered by [Jekyll](https://jekyllrb.com/)
 
-![Website Cover](https://github.com/gargsaar/sarthakgarg.github.io/blob/master/assets/img/website_cover.png)
+![Website Cover](https://github.com/gargsaar/sarthakgarg.github.io/assets/img/website_cover.png)
 
 ## About
 
