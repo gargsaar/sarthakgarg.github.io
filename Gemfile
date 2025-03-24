@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-core:ruby@3.3.4
+core:ruby "3.3.4"
 gem "jekflix"
 gem "kramdown"
 gem "kramdown-parser-gfm"
