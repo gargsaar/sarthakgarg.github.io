@@ -1,9 +1,3 @@
-# iStandpoint
-
-My [Blog](https://sarthakgarg.com/) powered by [Jekyll](https://jekyllrb.com/)
-
-![Website Cover](https://github.com/gargsaar/sarthakgarg.github.io/assets/img/website_cover.png)
-
 ## About
 
 Hola! My name is [Sarthak](https://sarthakgarg.com/about_me.html)… and I’ve a [standpoint](https://sarthakgarg.com/about/).
