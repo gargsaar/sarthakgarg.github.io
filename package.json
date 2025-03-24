@@ -22,7 +22,6 @@
     "url": "https://github.com/thiagorossener/jekflix-template/issues"
   },
   "devDependencies": {
-    "core:ruby": "3.3.4",
     "browser-sync": "^2.26.7",
     "child_process": "^1.0.2",
     "del": "^7.0.0",
