@@ -10,18 +10,14 @@ description: About
 
 # About
 
-Hola! My name is [Sarthak](https://sarthakgarg.com/about_me.html)...and I've a standpoint. 
+Hola! I'm [Sarthak](https://sarthakgarg.com/about_me.html)...and I've a standpoint. 
 
-[iStandpoint](https://sarthakgarg.com) is my blog. It's a repository of my learnings and ideas from which opinions and decisions are formed. It's my legacy :).
+[iStandpoint](https://sarthakgarg.com) is my digital space — a repository of my learnings, beliefs, and ideas that shape my opinions and decisions. It’s more than just a blog; it’s my legacy, etched in words.
 
-I’ve always wanted to write, writing has been very close to my heart for as long as I remember. 
+Writing has always been close to my heart. I’ve carried this passion for as long as I can remember, and starting a blog was my way of giving back — by sharing my experiences, insights, and reflections to help others learn from what I’ve discovered. After all, isn’t that what makes us human? We learn, we teach, and our stories live on. This ability to pass on knowledge across generations is what sets us apart. I believe this is the [purpose of our life](https://sarthakgarg.com/the-purpose-of-life/).
 
-The reason I decided to start a blog was to ink my learnings, beliefs and ideas so that I can do my bit to give back to the society by helping others learn from what I've learned and make this world a better place. And this is what humans do...isn't it? We learn, we teach, and our memory remains. This is the very thing that makes us special, our ability to pass on the learnings, beliefs and ideas from one generation to another. I believe, this is the very [purpose of our life](https://sarthakgarg.com/the-purpose-of-life/).
+We often underestimate the boundless potential we hold — the ability to achieve what lies beyond our imagination. The fastest way to achieve the extraordinary isn’t by reinventing the wheel but by standing on the shoulders of those who’ve already pushed the boundaries of thought. Remember, we’re just tiny specks in this vast universe, yet there are billions of minds thinking, evolving, and contributing.
 
-We often forget that we have a lot more potential than we realise and there are infinite things that we can do that exist way beyond our imagination. And the fastest way to do the unprecedented is not re-invent the wheel, but build upon the beliefs and ideas of somebody who's a little ahead of the thinking curve. Remember, we are a speck of dust in this tiny world and there are billion more minds out there, thinking. 
-
-Life is not a hundred meter sprint, but a 'Relay' race whereby we accept the baton from those that passed this way before, do our best, and then attempt to pass the baton on without fumbling it. This is [how mankind has evolved](https://sarthakgarg.com/how-to-stay-employable-in-the-age-of-automation/), one individual, one group, one generation learning from, and building upon what went before. Our job is to, at very least, 'pass the baton'!
-
-What I do apart from writing? [Check my Profile](https://sarthakgarg.com/about_me.html).
+Life isn’t a 100-meter sprint; it’s a relay where we receive the baton from those before us, do our best during our stretch, and pass it on without fumbling. This is [how mankind has evolved](https://sarthakgarg.com/how-to-stay-employable-in-the-age-of-automation/)— one individual, one idea, and one generation at a time. Our role? To keep the baton moving forward.
 
 PS: It's a real [tiger](http://tigerpark.co.th/) cub in the picture above, incase u didn't notice:)
