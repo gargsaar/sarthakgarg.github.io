@@ -1,27 +1,26 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: iStandpoint
+title: iStandpoint | The Blog of Sarthak Garg
+description: "Informal notes on product management and artificial intelligence. Short stories, that's icing on the cake!"
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - fiction
+  - product
+  - ai
+  - tech
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
+  - title: Categories
+    url: /category
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: gargsaar@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: sg-istandpoint
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,12 +28,9 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: gargsaar
+twitter_username: gargsaar
+linkedin_username: sarthak-garg-0997a418
 
 
 # Posts Settings
@@ -45,9 +41,9 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://sarthakgarg.com" # the base hostname & protocol for your site
+google_analytics: "" #hardcoded in stats.html
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -110,4 +106,5 @@ exclude: [
 ]
 
 # Theme
+theme: jekflix
 version: v3.1.2
